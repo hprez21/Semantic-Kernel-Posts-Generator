@@ -2,6 +2,12 @@
 
 This repository demonstrates how to build a complete blog post generator using Microsoft Semantic Kernel with OpenAI and Azure OpenAI services. It showcases how to interact with chat, image, and audio models to produce a rich, multi-modal content pipeline.
 
+### About the Master in Semantic Kernel
+
+This project is part of the **Master in Semantic Kernel** program.  
+- Spanish: https://elcamino.dev  
+- English: https://devs.school  
+
 ### Repository Objective
 
 - **Showcase Semantic Kernel Capabilities**: Illustrate how to use Microsoft Semantic Kernel to invoke text completion, image generation, and audio synthesis.  
